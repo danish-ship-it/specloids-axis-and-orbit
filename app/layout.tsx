@@ -20,7 +20,10 @@ const libreBaskerville = Libre_Baskerville({
 export const metadata: Metadata = {
   title: "Axis & Orbit | Premium Digital Delivery",
   description: "Flexible like freelancers, reliable like agencies. Premium digital delivery from Kerala to the world.",
-    generator: 'v0.app'
+  generator: 'v0.app',
+  other: {
+    'facebook-domain-verification': 'oubmqhxkupu32gqzulyexxrl7qs1a5',
+  },
 }
 
 export default function RootLayout({
